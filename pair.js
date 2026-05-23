@@ -43,7 +43,7 @@ process.env.PM2_NAME = 'jamali-tech-md-v2';
 console.log('🚀 JAMALI TECH MD V2 - Premium WhatsApp Bot initialized');
 
 // Configs - JAMALI TECH BRANDING
-const footer = `> *♱♱♱♱♱ POWERED BY JAMALI TECH EMPIRE ♱♱♱♱♱*`
+const footer = `> *♱♱♱♱♱ POWERED BY JAMALI TECH  ♱♱♱♱♱*`
 const logo = `https://files.catbox.moe/xney4v.jpg`;
 const caption = `𝐉𝐀𝐌𝐀𝐋𝐈 𝐓𝐄𝐂𝐇 𝐌𝐃 𝐕𝟐`; 
 const botName = '𝐉𝐀𝐌𝐀𝐋𝐈 𝐓𝐄𝐂𝐇 𝐌𝐃 𝐕𝟐'
